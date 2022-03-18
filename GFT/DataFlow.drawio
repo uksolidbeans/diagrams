@@ -1,4 +1,4 @@
-<mxfile modified="2022-03-18T13:29:40.705Z" host="app.diagrams.net" agent="5.0 (X11)" etag="Z8Pit9dpuFti6CU65Yq8" version="17.1.3" type="github">
+<mxfile modified="2022-03-18T13:31:07.765Z" host="app.diagrams.net" agent="5.0 (X11)" etag="0I0DltCX2i_QxGKevVtJ" version="17.1.3" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2182" dy="1538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="80" y="80" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="RvYsPrgFDpj5hAQnLX-L-47" value="ROI Stream" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.kinesis_data_streams;" parent="UEzPUAAOIrF-is8g5C7q-74" vertex="1">
-          <mxGeometry x="80" y="320" width="78" height="78" as="geometry" />
+          <mxGeometry x="80" y="345" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="UEzPUAAOIrF-is8g5C7q-75" value="KITT" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;labelBackgroundColor=#ffffff;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="80" width="640" height="650" as="geometry" />
@@ -129,14 +129,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RvYsPrgFDpj5hAQnLX-L-36" value="" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;" parent="UEzPUAAOIrF-is8g5C7q-75" vertex="1">
-          <mxGeometry x="40" y="210" width="396" height="421" as="geometry" />
+          <mxGeometry x="30" y="200" width="396" height="421" as="geometry" />
         </mxCell>
-        <mxCell id="RvYsPrgFDpj5hAQnLX-L-39" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;orthogonal=0;bendable=1;edgeStyle=orthogonalEdgeStyle;" parent="1" source="RvYsPrgFDpj5hAQnLX-L-47" target="RvYsPrgFDpj5hAQnLX-L-28" edge="1">
+        <mxCell id="RvYsPrgFDpj5hAQnLX-L-39" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;orthogonal=0;bendable=1;edgeStyle=orthogonalEdgeStyle;jumpStyle=gap;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RvYsPrgFDpj5hAQnLX-L-47" target="RvYsPrgFDpj5hAQnLX-L-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RvYsPrgFDpj5hAQnLX-L-40" value="Consume Messages" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RvYsPrgFDpj5hAQnLX-L-39" vertex="1" connectable="0">
           <mxGeometry x="0.1985" y="-2" relative="1" as="geometry">
-            <mxPoint x="-138" y="-16" as="offset" />
+            <mxPoint x="-75" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RvYsPrgFDpj5hAQnLX-L-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=default;jumpStyle=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RvYsPrgFDpj5hAQnLX-L-2" target="RvYsPrgFDpj5hAQnLX-L-5" edge="1">
